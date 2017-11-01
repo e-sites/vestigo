@@ -1,0 +1,24 @@
+{
+  "name": "@e-sites/vestigo",
+  "version": "0.1.0",
+  "description": "Google Analytics event tracking based on HTML data attributes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-sites/vestigo.git"
+  },
+  "keywords": [
+    "tracking",
+    "analytics",
+    "google"
+  ],
+  "author": "E-sites",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-sites/vestigo/issues"
+  },
+  "homepage": "https://github.com/e-sites/vestigo#readme"
+}
